@@ -131,9 +131,3 @@ Arrays.copyOfRange(arr, n, m) : arr 배열의 n부터 m-1까지 복사후 반환
 - set.size()
 - set.clear()
 
-### **Math**
-
-- Math.pow(2, 3) : 거듭제곱
-- Math.max(a, b) : 최댓값
-    - Math.max(a, Math.max(b, c)) 이런 식으로 하면 3개 중의 최댓값을 찾는데 사용
-- Max.abs(-3) : 절대값 반환
