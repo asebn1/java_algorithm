@@ -16,7 +16,7 @@
 - String.join("", strArr) : String 배열을 "" 구분자로 합쳐줌
 - str.toCharArray() : 문자열을 char Array로 변경해줌 ex) for(char c : str.toCharArray()) { // 코드 }
 
-### **Character (char c = 'a';)**
+### **Character (char c = 'a';)** 
 
 - Character.isDigit(c) : 숫자 true, 아니면 false
 - Character.isAlphabetic(c) : 알파벳이면 true, 아니면 false
